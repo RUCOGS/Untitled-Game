@@ -1,0 +1,25 @@
+Starts of with a little 1-2 seconds COGS splash
+Swipe to title screen with overlay saying something like "Features to be taught"
+Title screen will have multiple of the clips being taught shown as little windows on a blank background
+Swipe to quick 5-10 second clips of each feature being taught
+End with Info about when and where features will be taught 
+
+Features to be taught:
+
+Player movement
+
+Player animation scripting
+
+Item interaction
+
+Gun combat
+
+Level building
+
+EnemyAI
+	-Movement
+	-Combat
+
+Menu Creation
+
+HUD
